@@ -1,0 +1,1 @@
+INDEX VERSION 1.132+C:\Users\Korisnik\eclipse-workspace\projekt_KMogorovic\.metadata\.plugins\org.eclipse.jdt.core
